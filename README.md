@@ -87,7 +87,7 @@ struct RequestData: Codable {
       var max_tokens: Int
   }
 ```
-Please read the official youTube API Documentation if you need more info !
+Please read the official OpenAi API Documentation: https://beta.openai.com/docs if you need more info !
 
 In the view you can easy call the Api using:
 
