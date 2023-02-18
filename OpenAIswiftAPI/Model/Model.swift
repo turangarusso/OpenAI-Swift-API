@@ -25,7 +25,7 @@ final class Network: ObservableObject {
         
         urlRequest.httpMethod = "POST"
         
-        urlRequest.addValue("Bearer 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", forHTTPHeaderField: "Authorization")
+        urlRequest.addValue("Bearer YOUR-API-KEY", forHTTPHeaderField: "Authorization")
         
         urlRequest.addValue("application/json", forHTTPHeaderField: "Content-Type")
         
