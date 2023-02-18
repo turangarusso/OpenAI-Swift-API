@@ -14,7 +14,7 @@
 
                            
   <br>
-  OpenAI/ChatGPT Swift API
+  OpenAI Swift API
   <br>
 </h1>
 
