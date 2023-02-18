@@ -54,6 +54,8 @@ The OpenAI API can be applied to virtually any task that involves understanding 
 
 You can build the project using Xcode. To get the Api key go to your account on https://beta.openai.com/account/api-keys and copy the key.
 
+In this example i've used Davinci "text-davinci-003" model with text completions, you can change the model and use what you need.
+
 Change the value with your OpenAi Api key
 
 ```swift
