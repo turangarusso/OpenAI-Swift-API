@@ -126,7 +126,7 @@ The Struct must be declared with the same parameters of the API Response
 
 If you change the Request parameters, the response may change, so you need to edit the struct!
 
-```
+```swift
 struct TranslationResponse: Decodable {
     var id: String
     var object: String
