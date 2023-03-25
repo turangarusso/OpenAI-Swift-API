@@ -48,6 +48,25 @@ The OpenAI API can be applied to virtually any task that involves understanding 
   - Many more!
 * Integrated with swiftUI
 
+| Method               |   Target   | Description |
+| ---------------------| -----------|-------------|
+| text-generation      | prompt     | Generates text based on a given prompt |
+| sentiment-analysis   | text       | Determines the sentiment of a given text |
+| question-answering   | question,  | Provides an answer to a given question based on a given context |
+|                      | context    |             |
+| summarization        | text       | Generates a short summary of a given text |
+| translation          | text,      | Translates text from one language to another |
+|                      | target     |             |
+| language-detection   | text       | Detects the language of a given text |
+| text-classification  | text,      | Classifies a given text into one or more predefined categories |
+|                      | categories |             |
+| named-entity-recog.  | text       | Identifies named entities in a given text |
+| text-to-speech       | text       | Converts text into spoken audio |
+| image-recognition    | image      | Identifies objects and scenes in an image |
+| text-to-image        | prompt     | Generates an image based on a given prompt |
+| semantic-search      | query,     | Finds documents related to a given query |
+|                      | documents  |             |
+| chatbot              | message    | Generates responses to a given message |
 
 
 ## How To Use
